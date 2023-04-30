@@ -1,0 +1,11 @@
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\bin\Debug\Aim_Improver.exe.config
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\bin\Debug\Aim_Improver.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\bin\Debug\Aim_Improver.pdb
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.csproj.AssemblyReference.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.Form1.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.Properties.Resources.resources
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.csproj.GenerateResource.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.csproj.CoreCompileInputs.cache
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.exe
+C:\Users\Yıldıray KARASUBAŞI\Desktop\C# Pratikleri\Aim_Improver\Aim_Improver\obj\Debug\Aim_Improver.pdb
